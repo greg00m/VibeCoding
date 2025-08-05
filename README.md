@@ -1,2 +1,2 @@
 # VibeCoding
-This repo contains all of my vibe coding trials and tribulations.  Expect many programs to take and process output from others.
+This repo contains all of my vibe coding trials and tribulations.  Expect many programs to take and process output from others. I used VS 2022 desktop with Github copilot until I ran out of tokens, then used Claude 4, which was everything I was told it could be. Having entry level developer skills from my cybersecurity training and work helped me pick through lines where the AIs glossed over, gave vague solutions or the solution took more work than I wanted to do at night in the summer heat.
