@@ -1,0 +1,8 @@
+Assembly Program Results
+========================
+Output1: 1
+Counter: 1
+
+Raw byte values:
+Output1 (hex): 0x1
+Counter (hex): 0x1
