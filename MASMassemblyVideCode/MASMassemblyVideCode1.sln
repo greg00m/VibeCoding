@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MASMassemblyVideCode1", "MASMassemblyVideCode1.vcxproj", "{B795C7CF-FFFF-4277-B6AE-0488588B95C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Debug|x64.ActiveCfg = Debug|x64
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Debug|x64.Build.0 = Debug|x64
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Debug|x86.Build.0 = Debug|Win32
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Release|x64.ActiveCfg = Release|x64
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Release|x64.Build.0 = Release|x64
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Release|x86.ActiveCfg = Release|Win32
+		{B795C7CF-FFFF-4277-B6AE-0488588B95C0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6017F8AB-3290-40A5-842C-5FCEFD2B8FB4}
+	EndGlobalSection
+EndGlobal
